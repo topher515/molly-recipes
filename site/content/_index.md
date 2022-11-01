@@ -1,7 +1,7 @@
 ---
 title: Molly's no BS recipes
 subtitle: Don't read a book, make a recipe
-image: /img/home-jumbotron.jpg
+image: img/mojito-ft-recipe1022-2000-85cdb1eb59454847b713713e32e365c0.webp
 blurb:
   heading: Blah blah
   text: Foobar foobar
